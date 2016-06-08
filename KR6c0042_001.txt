@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:55.445751
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛經纂要刊定記
 #+PROPERTY: CBETA_ID T33n1702
 #+PROPERTY: ID KR6c0042
@@ -13,7 +13,7 @@
 ¶
 No.1702[cf.Nos.235,1701]¶
 
-金剛經纂要刊定記并序
+* 金剛經纂要刊定記并序
 :PROPERTIES:
 :head: 金剛經纂要刊定記并序
 :END:
