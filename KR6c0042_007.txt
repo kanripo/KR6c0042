@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:55.714477
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛經纂要刊定記
 #+PROPERTY: CBETA_ID T33n1702
 #+PROPERTY: ID KR6c0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1702
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0042_T_000-0170a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0042_T_007-0222c> 
 #+PROPERTY: JUAN 7
 ¶
-
- 金剛經纂要刊定記卷第七¶
+金剛經纂要刊定記卷第七¶
 ¶
 長水沙門子璿錄¶
 
@@ -260,7 +259,7 @@
 便破之，念之則有不念則無。故《起信》云：「心生¶
 則法生，心滅則法滅」等也。
 
-破和合。經徵意云：¶
+破和合。經微意云：¶
 以何義故說世界耶？釋意云：世界若實則是一¶
 合。佛說一合者，非實有之一合，是空無之一¶
 合。疏文中引天親解。

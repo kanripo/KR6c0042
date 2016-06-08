@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:55.538049
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛經纂要刊定記
 #+PROPERTY: CBETA_ID T33n1702
 #+PROPERTY: ID KR6c0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1702
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0042_T_000-0170a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0042_T_003-0189a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 金剛經纂要刊定記卷第三¶
+金剛經纂要刊定記卷第三¶
 ¶
 長水沙門子璿錄¶
 
@@ -838,7 +837,7 @@
 
 六者，然於¶
 心中復有六種：一、念處，二、正覺，三、施設大利¶
-益，四、攝取法身，五、不住生死涅槃，六、行住淨。¶
+益，曰、攝取法身，五、不住生死涅槃，六、行住淨。¶
 化度眾生大悲為本，故先明念處。自未成佛¶
 焉能度他，故次明正覺。自利既滿即合利他，¶
 故次明施設大利益。猶恐滯相大，次明攝取¶
@@ -1183,7 +1182,7 @@
 生發言言當其事，是故調御印讚云云。
 
 勅聽¶
-許說者。經云：「汝今諦聽」，勅聽也。「當為汝說」，許¶
+許說者。經云：「汝今諦聽」，勅聽九。「當為汝說」，許¶
 說也。諦謂審實之義，意令審諦真實用心聽¶
 也。
 

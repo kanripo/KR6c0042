@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:55.580836
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 金剛經纂要刊定記
 #+PROPERTY: CBETA_ID T33n1702
 #+PROPERTY: ID KR6c0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1702
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0042_T_000-0170a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0042_T_004-0198a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 金剛經纂要刊定記卷第四¶
+金剛經纂要刊定記卷第四¶
 ¶
 長水沙門子璿錄¶
 
@@ -31,7 +30,7 @@
 
 答：「大心未發即是凡夫，既已發心即名菩¶
 薩。善現標舉，約未發心時，故云善男子、善女¶
-人。世尊酬答，約已發心後，乃言諸菩薩摩訶¶
+人。世尊酬答，約己發心後，乃言諸菩薩摩訶¶
 薩。」
 
 疏此以下四。初、正釋經文。以空生聞有三¶
@@ -179,7 +178,7 @@
 答：「三界統論不出¶
 五事，謂：欲、色、想、無想、非有想非無想。然非有¶
 無想，即局於有頂一天。色界一天雖名無想，¶
-已從多分通名色界，故但指無所有處為無¶
+已從多分通名色界，故但指無所有為為無¶
 想。其餘三事從空識二處已下，乃至欲界相¶
 望，有無寬狹不同。謂：欲界具三，色界無欲，無
 <pb:KR6c0042_T_004-0199b>¶
